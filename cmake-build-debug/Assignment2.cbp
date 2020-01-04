@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment2">
+				<Option output="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Assignment2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment2"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment2/fast">
+				<Option output="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Assignment2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment2/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/BUGS">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/LICENSE">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/Makefile">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/Notes">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/Operating Systems Test ASS2.tar.gz">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/README">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/TRICKS">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_cat">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_echo">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_forktest">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_grep">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_init">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_kill">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_ln">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_ls">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_mkdir">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_rm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_sh">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_stressfs">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_usertests">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_wc">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/_zombie">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/asm.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bio.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bio.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bio.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootasm.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootasm.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootasm.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootblock">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootblock.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootblock.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootblockother.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootmain.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootmain.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/bootmain.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/buf.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cat.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cat.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cat.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cat.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cat.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/console.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/console.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/console.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/cuth">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/date.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/defs.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/dot-bochsrc">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/echo.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/echo.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/echo.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/echo.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/echo.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/elf.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entry.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entry.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entryother">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entryother.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entryother.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entryother.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/entryother.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/exec.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/exec.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/exec.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/fcntl.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/file.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/file.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/file.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/file.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/forktest.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/forktest.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/forktest.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/forktest.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/fs.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/fs.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/fs.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/fs.img">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/fs.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/gdbutil">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/grep.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/grep.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/grep.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/grep.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/grep.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ide.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ide.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ide.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/init.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/init.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/init.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/init.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/init.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/initcode">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/initcode.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/initcode.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/initcode.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/initcode.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/initcode.out">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ioapic.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ioapic.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ioapic.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kalloc.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kalloc.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kalloc.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kbd.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kbd.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kbd.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kbd.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kernel">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kernel.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kernel.ld">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kernel.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kill.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kill.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kill.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kill.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kill.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/kthread.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/lapic.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/lapic.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/lapic.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ln.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ln.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ln.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ln.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ln.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/log.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/log.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/log.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ls.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ls.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ls.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ls.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ls.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/main.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/main.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/main.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/memide.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/memlayout.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkdir.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkdir.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkdir.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkdir.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkdir.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkfs">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mkfs.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mmu.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mp.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mp.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mp.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/mp.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/param.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/picirq.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/picirq.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/picirq.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/pipe.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/pipe.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/pipe.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/pr.pl">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/printf.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/printf.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/printf.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/printpcs">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/proc.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/proc.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/proc.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/proc.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/rm.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/rm.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/rm.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/rm.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/rm.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/runoff">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/runoff.list">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/runoff.spec">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/runoff1">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sh.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sh.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sh.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sh.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sh.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/show1">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sign.pl">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sleep1.p">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sleeplock.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sleeplock.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sleeplock.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sleeplock.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/spinlock.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/spinlock.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/spinlock.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/spinlock.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/spinp">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/stat.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/stressfs.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/stressfs.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/stressfs.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/stressfs.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/stressfs.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/string.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/string.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/string.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/swtch.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/swtch.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/syscall.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/syscall.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/syscall.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/syscall.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sysfile.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sysfile.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sysfile.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sysproc.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sysproc.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/sysproc.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/toc.ftr">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/toc.hdr">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/trap.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/trap.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/trap.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/trapasm.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/trapasm.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/traps.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/types.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/uart.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/uart.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/uart.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ulib.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ulib.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/ulib.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/umalloc.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/umalloc.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/umalloc.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/user.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usertests.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usertests.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usertests.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usertests.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usertests.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usys.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/usys.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/vectors.S">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/vectors.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/vectors.pl">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/vm.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/vm.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/vm.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/wc.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/wc.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/wc.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/wc.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/wc.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/x86.h">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/xv6.img">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/zombie.asm">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/zombie.c">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/zombie.d">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/zombie.o">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/zombie.sym">
+			<Option target="Assignment2"/>
+		</Unit>
+		<Unit filename="/users/studs/bsc/2016/nitzangu/os192/Assignment2_git/Assignment2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
